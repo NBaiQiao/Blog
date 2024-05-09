@@ -375,7 +375,7 @@ codeblock:
     style:
   # Fold code block
   fold:
-    enable: false
+    enable: true
     height: 500
 
 back2top:
